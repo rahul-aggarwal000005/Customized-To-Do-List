@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Artificial Intelligence",
+      "details": "Study the AI subject for the upcoming exam.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Stock Market Project",
+      "details": "Discuss with Jasmeet what needs to be done next.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Shivani",
+      "details": "Talk to Shivani regarding the Hackathon, How she is.. and had she did the dinner and all!",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "D2C Prize Money",
+      "details": "Keep track of the money won in Kirori Mal College Coding Competition",
+      "category": "money",
+      "id": 4
+    }
+  ]
+}
